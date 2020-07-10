@@ -20,5 +20,9 @@ class MainActivity : AppCompatActivity() {
     private fun upLoad(){
         //上传数据
     }
+
+    private fun test(){
+
+    }
 }
 
